@@ -1,5 +1,5 @@
 ## edu-team-project-12th
-GH 12기 메인 팀플 퀘스트 코드 정리 repository test-branck
+GH 12기 메인 팀플 퀘스트 코드 정리 repository test-branch
 
 ## Team members
 - Team 1:
