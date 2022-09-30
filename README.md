@@ -3,6 +3,8 @@ GH 12기 메인 팀플 퀘스트 코드 정리 repository
 
 조형근
 
+내일 에듀세션이다!
+
 ## Team members
 - Team 1:
 - Team 2: 
